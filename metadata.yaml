@@ -1,0 +1,34 @@
+_repo: Les-amours-du-temps-passe_61318
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Monselet, Charles
+    birthdate: 1825
+    deathdate: 1888
+    gutenberg_agent_id: '50474'
+    url: http://www.gutenberg.org/2009/agents/50474
+    wikipedia:
+    - https://fr.wikipedia.org/wiki/Charles_Monselet
+    - https://en.wikipedia.org/wiki/Charles_Monselet
+description: 'Also published under title: Les galanteries du XVIIIe siècle (1862).'
+gutenberg_bookshelf:
+- FR Nouvelles
+- FR Nouveautés
+- FR Séduction et libertinage
+gutenberg_issued: '2020-02-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '61318'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'French fiction -- 19th century'
+- !lcsh 'Short stories, French'
+- !lcc 'PQ'
+- GITenberg
+tableOfContents: Le poulet -- Les petits jeux -- Les passe-temps de M. de La Popelinière
+  -- Bibliothèque galante -- Desforges -- Cazotte -- Les diamants du Garde-meuble.
+title: Les amours du temps passé
+url: http://www.gutenberg.org/ebooks/61318
